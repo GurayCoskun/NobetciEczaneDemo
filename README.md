@@ -1,7 +1,7 @@
 # Nobetci Eczane Demo
 Uygulama, React Native'de Axios ile API'den güncel veriler çekerek, her şehire özel Nöbetçi Eczaneleri göstermektedir. <br>
  Demo adını almasının sebebi API'nin ücretli olması ve aylık 100 request limiti bulunmasıdır.<br>
-Eksiksiz çalışabilmesi için bazı paketlerin indirilmesi gerekiyor;
+Kullanacağınız modüllerin eksiksiz çalışabilmesi için bazı paketlerin indirilmesi gerekiyor;
 
 # AXIOS
 $ npm install axios <br>
